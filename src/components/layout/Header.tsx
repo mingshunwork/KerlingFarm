@@ -32,8 +32,8 @@ export default function Header() {
       <header
         className={`sticky top-0 z-50 w-full transition-all duration-300 ${
           isScrolled
-            ? 'bg-white/95 backdrop-blur-md shadow-lg border-b border-farm-green-100/50'
-            : 'bg-white/90 backdrop-blur-sm border-b border-transparent'
+            ? 'bg-dark-bg-secondary/95 backdrop-blur-md shadow-golden border-b border-dark-border-accent/50'
+            : 'bg-dark-bg-primary/90 backdrop-blur-sm border-b border-dark-border-primary'
         }`}
       >
         <nav className="container-custom">
@@ -57,13 +57,13 @@ export default function Header() {
                     href={item.href}
                     className={`relative rounded-lg px-4 py-2.5 text-sm font-semibold transition-all duration-300 ${
                       isActive
-                        ? 'text-farm-green-700 bg-gradient-to-r from-farm-green-50 to-farm-sage-50 shadow-sm'
-                        : 'text-gray-700 hover:text-farm-green-700 hover:bg-farm-green-50/50'
+                        ? 'text-golden-600 bg-golden-600/10 shadow-sm'
+                        : 'text-dark-text-secondary hover:text-golden-600 hover:bg-dark-bg-card'
                     }`}
                   >
                     {item.label}
                     {isActive && (
-                      <span className="absolute bottom-0 left-1/2 h-0.5 w-3/4 -translate-x-1/2 rounded-full bg-gradient-to-r from-farm-green-500 to-farm-green-600 shadow-sm shadow-farm-green-500/50" />
+                      <span className="absolute bottom-0 left-1/2 h-0.5 w-3/4 -translate-x-1/2 rounded-full bg-gradient-to-r from-golden-500 to-golden-600 shadow-sm shadow-golden-500/50" />
                     )}
                   </Link>
                 );
@@ -73,7 +73,7 @@ export default function Header() {
             {/* Mobile menu button */}
             <button
               type="button"
-              className="lg:hidden inline-flex items-center justify-center rounded-xl p-2.5 text-gray-700 transition-all duration-300 hover:bg-farm-green-50 hover:text-farm-green-700 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-farm-green-500 focus:ring-offset-2"
+              className="lg:hidden inline-flex items-center justify-center rounded-xl p-2.5 text-dark-text-secondary transition-all duration-300 hover:bg-dark-bg-card hover:text-golden-600 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-golden-600 focus:ring-offset-2 focus:ring-offset-dark-bg-primary"
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               aria-label="Toggle menu"
               aria-expanded={mobileMenuOpen}
@@ -99,14 +99,14 @@ export default function Header() {
           />
 
           {/* Mobile Menu Panel */}
-          <div className="fixed right-0 top-0 z-50 h-full w-full max-w-sm bg-white shadow-2xl lg:hidden animate-slide-in-right">
+          <div className="fixed right-0 top-0 z-50 h-full w-full max-w-sm bg-dark-bg-secondary shadow-2xl border-l border-dark-border-accent/30 lg:hidden animate-slide-in-right">
             <div className="flex h-full flex-col">
               {/* Mobile Header */}
-              <div className="flex items-center justify-between border-b border-gray-200 p-6">
+              <div className="flex items-center justify-between border-b border-dark-border-primary p-6">
                 <Logo size="sm" />
                 <button
                   type="button"
-                  className="rounded-xl p-2 text-gray-700 transition-all duration-300 hover:bg-farm-green-50 hover:text-farm-green-700 hover:rotate-90 active:scale-95"
+                  className="rounded-xl p-2 text-dark-text-secondary transition-all duration-300 hover:bg-dark-bg-card hover:text-golden-600 hover:rotate-90 active:scale-95"
                   onClick={() => setMobileMenuOpen(false)}
                   aria-label="Close menu"
                 >
@@ -125,8 +125,8 @@ export default function Header() {
                         href={item.href}
                         className={`block rounded-xl px-5 py-4 text-base font-semibold transition-all duration-300 animate-fade-in-up ${
                           isActive
-                            ? 'bg-gradient-to-r from-farm-green-600 to-farm-green-700 text-white shadow-lg shadow-farm-green-600/30'
-                            : 'text-gray-700 hover:bg-farm-green-50 hover:text-farm-green-700 hover:translate-x-2'
+                            ? 'bg-gradient-to-r from-golden-600 to-golden-700 text-dark-bg-primary shadow-lg shadow-golden-600/30'
+                            : 'text-dark-text-secondary hover:bg-dark-bg-card hover:text-golden-600 hover:translate-x-2 border border-dark-border-primary'
                         }`}
                         style={{ animationDelay: `${index * 50}ms` }}
                         onClick={() => setMobileMenuOpen(false)}
@@ -139,11 +139,11 @@ export default function Header() {
               </div>
 
               {/* Mobile Footer */}
-              <div className="border-t border-gray-200 p-6">
-                <p className="text-center text-sm text-gray-600">
+              <div className="border-t border-dark-border-primary p-6">
+                <p className="text-center text-sm text-dark-text-secondary">
                   Kerling Farm
                   <br />
-                  <span className="text-xs text-gray-500">Since 1952</span>
+                  <span className="text-xs text-dark-text-muted">Since 1952</span>
                 </p>
               </div>
             </div>

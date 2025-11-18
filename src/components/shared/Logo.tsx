@@ -14,16 +14,16 @@ export default function Logo({ variant = 'default', size = 'md' }: LogoProps) {
 
   const colors = {
     default: {
-      primary: '#16a34a',
-      secondary: '#15803d',
-      accent: '#22c55e',
-      leaf: '#4ade80',
+      primary: '#d4af37',
+      secondary: '#b8860b',
+      accent: '#facc15',
+      leaf: '#22c55e',
     },
     white: {
-      primary: '#ffffff',
-      secondary: '#f0fdf4',
-      accent: '#dcfce7',
-      leaf: '#bbf7d0',
+      primary: '#d4af37',
+      secondary: '#b8860b',
+      accent: '#facc15',
+      leaf: '#4ade80',
     },
   };
 
@@ -146,16 +146,12 @@ export default function Logo({ variant = 'default', size = 'md' }: LogoProps) {
       {/* Text Logo */}
       <div className="flex flex-col leading-none">
         <span
-          className={`font-display font-bold tracking-tight ${text} ${
-            variant === 'white' ? 'text-white' : 'text-farm-green-900'
-          }`}
+          className={`font-display font-bold tracking-tight ${text} text-golden-600`}
         >
           Kerling Farm
         </span>
         <span
-          className={`text-xs font-medium ${
-            variant === 'white' ? 'text-farm-green-100' : 'text-farm-green-600'
-          }`}
+          className="text-xs font-medium text-farm-green-500"
         >
           Since 1952
         </span>

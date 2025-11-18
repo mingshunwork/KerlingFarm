@@ -63,10 +63,44 @@ const config: Config = {
             950: '#171b17',
           },
         },
+        // Dark theme colors
+        dark: {
+          bg: {
+            primary: '#0a0a0a',
+            secondary: '#111111',
+            tertiary: '#1a1a1a',
+            card: '#151515',
+          },
+          border: {
+            primary: '#2a2a2a',
+            secondary: '#3a3a3a',
+            accent: '#d4af37',
+          },
+          text: {
+            primary: '#ffffff',
+            secondary: '#a3a3a3',
+            muted: '#6b6b6b',
+          },
+        },
+        // Golden accent colors
+        golden: {
+          50: '#fefce8',
+          100: '#fef9c3',
+          200: '#fef08a',
+          300: '#fde047',
+          400: '#facc15',
+          500: '#eab308',
+          600: '#d4af37', // Primary golden
+          700: '#b8860b',
+          800: '#92721f',
+          900: '#78601c',
+          950: '#453819',
+        },
         accent: {
           warm: '#d97706',
           cool: '#0891b2',
           nature: '#059669',
+          gold: '#d4af37',
         },
       },
       fontFamily: {
@@ -84,6 +118,9 @@ const config: Config = {
         'soft': '0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04)',
         'glow': '0 0 20px rgba(34, 197, 94, 0.3)',
         'glow-lg': '0 0 30px rgba(34, 197, 94, 0.4)',
+        'golden': '0 0 20px rgba(212, 175, 55, 0.3)',
+        'golden-lg': '0 0 30px rgba(212, 175, 55, 0.4)',
+        'dark-card': '0 4px 20px rgba(0, 0, 0, 0.5)',
       },
       animation: {
         'fade-in': 'fadeIn 0.6s ease-out',
