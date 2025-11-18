@@ -46,7 +46,7 @@
 
   /* Enhanced Card Styles - Dark Theme */
   .card {
-    @apply group relative overflow-hidden rounded-xl bg-dark-bg-card border border-dark-border-primary shadow-dark-card transition-all duration-500 hover:shadow-golden hover:border-dark-border-accent hover:-translate-y-2;
+    @apply relative overflow-hidden rounded-xl bg-dark-bg-card border border-dark-border-primary shadow-dark-card transition-all duration-500 hover:shadow-golden hover:border-dark-border-accent hover:-translate-y-2;
   }
 
   .card::before {
