@@ -7,7 +7,7 @@ import {
   getSiteConfig,
 } from '@/lib/data';
 import { Card, CardContent, CardFooter } from '@/components/ui/Card';
-import Button from '@/components/ui/Button';
+import Button, { getButtonClasses } from '@/components/ui/Button';
 import WhatsAppButton from '@/components/ui/WhatsAppButton';
 import { formatCurrency } from '@/lib/utils';
 
@@ -40,12 +40,10 @@ export default function HomePage() {
               {siteConfig.description}
             </p>
             <div className="flex flex-col gap-5 sm:flex-row sm:justify-center">
-              <Button asChild size="lg" className="text-lg px-10 py-6">
-                <Link href="/accommodation">
-                  Your Discovery Awaits
-                  <ArrowRight className="ml-2 h-6 w-6" />
-                </Link>
-              </Button>
+              <Link href="/accommodation" className={getButtonClasses('primary', 'lg', 'text-lg px-10 py-6')}>
+                Your Discovery Awaits
+                <ArrowRight className="ml-2 h-6 w-6" />
+              </Link>
               <WhatsAppButton className="text-lg px-10 py-6 bg-farm-green-600 hover:bg-farm-green-700" />
             </div>
           </div>
@@ -84,12 +82,10 @@ export default function HomePage() {
                   Come, experience the simplicity of rural living, far—where every sunrise feels like promise, every sunset feels like peace. With at GM Farm Homestay, memories are born.
                 </p>
               </div>
-              <Button asChild size="lg" variant="secondary" className="mt-6">
-                <Link href="/about">
-                  Learn More About Us
-                  <ArrowRight className="ml-2 h-5 w-5" />
-                </Link>
-              </Button>
+              <Link href="/about" className={getButtonClasses('secondary', 'lg', 'mt-6')}>
+                Learn More About Us
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Link>
             </div>
           </div>
         </div>
@@ -215,23 +211,19 @@ export default function HomePage() {
                   </div>
                 </CardContent>
                 <CardFooter className="p-6 pt-0">
-                  <Button asChild className="w-full">
-                    <Link href={`/accommodation/${accommodation.slug}`}>
-                      View Details
-                    </Link>
-                  </Button>
+                  <Link href={`/accommodation/${accommodation.slug}`} className={getButtonClasses('primary', 'md', 'w-full')}>
+                    View Details
+                  </Link>
                 </CardFooter>
               </Card>
             ))}
           </div>
 
           <div className="mt-12 text-center">
-            <Button asChild size="lg" variant="secondary">
-              <Link href="/accommodation">
-                See All Rooms
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Link>
-            </Button>
+            <Link href="/accommodation" className={getButtonClasses('secondary', 'lg')}>
+              See All Rooms
+              <ArrowRight className="ml-2 h-5 w-5" />
+            </Link>
           </div>
         </div>
       </section>
@@ -336,9 +328,9 @@ export default function HomePage() {
               the heart of Vermont's beautiful countryside. Whether it's a weekend getaway or an extended retreat, we're here to make your experience truly special.
             </p>
             <div className="flex flex-col justify-center gap-5 pt-6 sm:flex-row">
-              <Button asChild size="lg" className="text-lg px-10 py-6">
-                <Link href="/accommodation">Book Now</Link>
-              </Button>
+              <Link href="/accommodation" className={getButtonClasses('primary', 'lg', 'text-lg px-10 py-6')}>
+                Book Now
+              </Link>
               <WhatsAppButton className="text-lg px-10 py-6 bg-farm-green-600 hover:bg-farm-green-700" />
             </div>
           </div>
