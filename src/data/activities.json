@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "slug": "farm-tour",
+    "name": "Guided Farm Tour",
+    "shortDescription": "Explore our 50-acre organic farm with an experienced guide and learn about sustainable farming practices.",
+    "fullDescription": "Join us for an immersive 2-hour journey through Kerling Farm's diverse agricultural operations. Our knowledgeable guides will walk you through our organic vegetable gardens, introduce you to our heritage livestock breeds, and explain our regenerative farming techniques. You'll learn about soil health, composting, crop rotation, and how we minimize our environmental impact while maximizing yield. The tour includes hands-on activities like collecting fresh eggs, feeding our friendly goats, and harvesting seasonal vegetables that you can take back to your accommodation. Perfect for families, this educational experience connects you with the source of your food and the rhythms of farm life.",
+    "duration": "2 hours",
+    "difficulty": "Easy",
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+      "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=800",
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+    "featured": true,
+    "displayOrder": 1,
+    "seo": {
+      "title": "Guided Farm Tour - Educational Farm Experience | Kerling Farm",
+      "description": "Experience our 2-hour guided organic farm tour. Learn sustainable farming, meet farm animals, and harvest fresh vegetables. Perfect for families and groups.",
+      "keywords": ["farm tour", "organic farming", "educational tour", "farm activities"],
+      "ogImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200"
+    }
+  },
+  {
+    "id": "2",
+    "slug": "vegetable-harvesting",
+    "name": "Seasonal Vegetable Harvesting",
+    "shortDescription": "Get your hands dirty harvesting fresh, organic vegetables straight from our gardens.",
+    "fullDescription": "Experience the satisfaction of harvesting your own food in this hands-on activity. Depending on the season, you'll pick tomatoes, dig potatoes, pull carrots, cut lettuce, or gather other fresh produce from our certified organic gardens. Our farm staff will teach you how to identify ripe vegetables, proper harvesting techniques that don't damage plants, and tips for growing your own garden at home. This 90-minute activity is therapeutic, educational, and rewarding - you'll take home a basket of the freshest vegetables you've ever tasted. Children especially love this connection to their food, and many guests say it's the highlight of their stay. All necessary tools and baskets are provided.",
+    "duration": "1.5 hours",
+    "difficulty": "Easy",
+    "images": [
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?w=800",
+      "https://images.unsplash.com/photo-1595855759920-86bc859a4d0b?w=800"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+    "featured": true,
+    "displayOrder": 2,
+    "seo": {
+      "title": "Vegetable Harvesting Experience - Pick Your Own | Kerling Farm",
+      "description": "Harvest fresh organic vegetables in our gardens. Learn proper harvesting techniques and take home a basket of farm-fresh produce. Fun for all ages!",
+      "keywords": ["vegetable harvesting", "pick your own", "organic vegetables", "farm experience"],
+      "ogImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200"
+    }
+  },
+  {
+    "id": "3",
+    "slug": "animal-feeding",
+    "name": "Animal Feeding & Care",
+    "shortDescription": "Feed and interact with our friendly farm animals including goats, chickens, and sheep.",
+    "fullDescription": "Start your morning the farm way by helping us care for our beloved animals. This delightful 1-hour experience puts you right in the middle of our daily animal care routine. You'll help feed our Nigerian Dwarf goats (who love attention!), scatter feed for our free-range chickens, and bottle-feed baby lambs during spring season. Learn about each animal's dietary needs, behavior, and role on the farm. Our animals are gentle and accustomed to visitors, making this activity perfect for young children and animal lovers of all ages. You'll also collect fresh eggs from the chicken coop - a magical experience for kids who've only seen eggs in cartons. This activity helps guests understand the responsibility and joy of animal husbandry.",
+    "duration": "1 hour",
+    "difficulty": "Easy",
+    "images": [
+      "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=800",
+      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800",
+      "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=800"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=800",
+    "featured": true,
+    "displayOrder": 3,
+    "seo": {
+      "title": "Animal Feeding Experience - Meet Farm Animals | Kerling Farm",
+      "description": "Feed and care for friendly farm animals including goats, chickens, and sheep. Perfect family activity, especially for children. Daily sessions available.",
+      "keywords": ["animal feeding", "farm animals", "family activity", "children's farm experience"],
+      "ogImage": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=1200"
+    }
+  },
+  {
+    "id": "4",
+    "slug": "nature-hiking",
+    "name": "Nature Trail Hiking",
+    "shortDescription": "Explore scenic trails through forests, meadows, and along our creek with stunning countryside views.",
+    "fullDescription": "Discover the natural beauty surrounding Kerling Farm on our well-maintained trail system. Choose from three routes: the easy 1-mile Meadow Loop offering panoramic valley views, the moderate 3-mile Forest Trail winding through old-growth woodland, or the challenging 5-mile Creek Path following our babbling stream to a hidden waterfall. Each trail is marked with informative signs about local flora and fauna. Spring brings wildflower displays, summer offers cool forest shade, fall showcases brilliant foliage, and winter provides serene snow-covered landscapes. Birdwatchers love our trails - we've recorded over 60 species on the property. Trails are open sunrise to sunset, and we provide trail maps, walking sticks, and binoculars upon request. This self-guided activity allows you to explore at your own pace and connect with nature.",
+    "duration": "1-3 hours",
+    "difficulty": "Moderate",
+    "images": [
+      "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+      "https://images.unsplash.com/photo-1445308394109-4ec2920981b1?w=800",
+      "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+    "featured": false,
+    "displayOrder": 4,
+    "seo": {
+      "title": "Nature Hiking Trails - Scenic Farm Walks | Kerling Farm",
+      "description": "Hike our scenic nature trails through forests, meadows, and along the creek. Multiple difficulty levels available. Perfect for nature lovers and photographers.",
+      "keywords": ["nature trails", "farm hiking", "nature walks", "outdoor activities"],
+      "ogImage": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=1200"
+    }
+  },
+  {
+    "id": "5",
+    "slug": "farm-to-table-cooking",
+    "name": "Farm-to-Table Cooking Class",
+    "shortDescription": "Learn to prepare delicious meals using fresh ingredients from our farm in a hands-on cooking workshop.",
+    "fullDescription": "Immerse yourself in the ultimate farm-to-table experience with our popular cooking classes. Start by harvesting ingredients directly from our gardens, then join our chef in our farmhouse kitchen to prepare a complete seasonal meal. You'll learn knife skills, cooking techniques, and recipes you can recreate at home - all focused on simple preparations that let fresh, organic ingredients shine. Classes change with the seasons: spring might feature asparagus and fresh herbs, summer highlights tomatoes and zucchini, fall celebrates squash and root vegetables, and winter focuses on preserved foods and hearty greens. The 3-hour class concludes with everyone sitting down together to enjoy the meal you've prepared, paired with farm-made beverages. Limited to 8 participants for personalized instruction. Perfect for food enthusiasts and couples seeking a unique date experience.",
+    "duration": "3 hours",
+    "difficulty": "Easy",
+    "images": [
+      "https://images.unsplash.com/photo-1556910110-a5a63dfd393c?w=800",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800"
+    ],
+    "featuredImage": "https://images.unsplash.com/photo-1556910110-a5a63dfd393c?w=800",
+    "featured": true,
+    "displayOrder": 5,
+    "seo": {
+      "title": "Farm-to-Table Cooking Class - Culinary Experience | Kerling Farm",
+      "description": "Harvest ingredients and learn to cook seasonal farm-fresh meals. 3-hour hands-on cooking workshop includes meal. Perfect for food lovers and couples.",
+      "keywords": ["cooking class", "farm to table", "culinary workshop", "food experience"],
+      "ogImage": "https://images.unsplash.com/photo-1556910110-a5a63dfd393c?w=1200"
+    }
+  }
+]

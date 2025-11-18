@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Welcome to Kerling Farm",
+    "subtitle": "A Family Legacy Since 1952",
+    "description": "Experience authentic farm life where sustainable agriculture meets warm hospitality. Our family-owned farm has been welcoming guests for over 70 years, offering a peaceful retreat from city life and a genuine connection to the land.",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200"
+  },
+  "story": {
+    "title": "Our Story",
+    "content": [
+      "Kerling Farm was established in 1952 by Henrik and Martha Kerling, immigrants who brought with them Old World farming traditions and a deep respect for the land. What began as a small dairy operation has evolved into a diverse, certified organic farm spanning 50 acres of Vermont's beautiful countryside.",
+      "Today, the farm is managed by the third generation of Kerlings, who have expanded the operation to include organic vegetables, heritage fruit orchards, and sustainable livestock. In 2010, we opened our doors to agritourism, converting historic farm buildings into comfortable guest accommodations and developing educational programs that connect visitors with the source of their food.",
+      "Our mission is simple: practice regenerative agriculture that improves soil health, support biodiversity, and share the joy of farm life with visitors seeking authentic experiences. We believe that understanding where food comes from creates more mindful consumers and helps preserve small-scale, sustainable farming for future generations.",
+      "Whether you're here to relax in peaceful surroundings, learn about organic farming, or give your children hands-on experiences with nature, Kerling Farm offers a warm welcome and genuine hospitality rooted in our agricultural heritage."
+    ],
+    "image": "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800"
+  },
+  "values": {
+    "title": "Our Values",
+    "items": [
+      {
+        "icon": "Leaf",
+        "title": "Sustainable Agriculture",
+        "description": "We're committed to organic farming practices that build soil health, protect water quality, and promote biodiversity. Every decision considers long-term environmental impact."
+      },
+      {
+        "icon": "Heart",
+        "title": "Genuine Hospitality",
+        "description": "Our guests are treated like family. We take pride in providing comfortable accommodations, personalized service, and sharing our knowledge and passion for farming."
+      },
+      {
+        "icon": "Users",
+        "title": "Community Connection",
+        "description": "We support our local community by sourcing supplies locally, selling produce at farmers markets, and educating visitors about the importance of supporting small farms."
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Education & Awareness",
+        "description": "Through tours, workshops, and hands-on activities, we help people understand where their food comes from and inspire them to make sustainable choices."
+      },
+      {
+        "icon": "Sprout",
+        "title": "Heritage Preservation",
+        "description": "We grow heirloom vegetables, maintain heritage livestock breeds, and preserve traditional farming knowledge while embracing innovations that enhance sustainability."
+      },
+      {
+        "icon": "Sun",
+        "title": "Seasonal Living",
+        "description": "We embrace the natural rhythms of the seasons, offering different experiences throughout the year that reflect the ever-changing life of a working farm."
+      }
+    ]
+  },
+  "seo": {
+    "title": "About Kerling Farm - Our Story & Values | Vermont Farm Stay",
+    "description": "Learn about Kerling Farm's 70-year history of sustainable agriculture and warm hospitality. Discover our organic farming practices, family legacy, and commitment to education.",
+    "keywords": ["about kerling farm", "farm history", "sustainable farming", "organic farm Vermont", "family farm"],
+    "ogImage": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200"
+  }
+}

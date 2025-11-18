@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "url": "https://images.unsplash.com/photo-1587061949409-02df41d5e562?w=800",
+    "alt": "Cozy cottage exterior with mountain views",
+    "caption": "Deluxe Cottage surrounded by nature",
+    "category": "accommodation"
+  },
+  {
+    "id": "2",
+    "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800",
+    "alt": "Scenic farm landscape with rolling hills",
+    "caption": "Our beautiful 50-acre farm",
+    "category": "general"
+  },
+  {
+    "id": "3",
+    "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+    "alt": "Fresh vegetables being harvested from garden",
+    "caption": "Harvesting organic vegetables",
+    "category": "activities"
+  },
+  {
+    "id": "4",
+    "url": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=800",
+    "alt": "Rows of organic vegetables in garden beds",
+    "caption": "Our certified organic vegetable gardens",
+    "category": "plantation"
+  },
+  {
+    "id": "5",
+    "url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=800",
+    "alt": "Friendly goats in pasture",
+    "caption": "Meet our friendly farm animals",
+    "category": "activities"
+  },
+  {
+    "id": "6",
+    "url": "https://images.unsplash.com/photo-1606046604972-77cc76aee944?w=800",
+    "alt": "Rustic cabin interior with wooden beams",
+    "caption": "Cozy Cabin interior",
+    "category": "accommodation"
+  },
+  {
+    "id": "7",
+    "url": "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800",
+    "alt": "Apple orchard in full bloom",
+    "caption": "Heritage fruit orchard in spring",
+    "category": "plantation"
+  },
+  {
+    "id": "8",
+    "url": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=800",
+    "alt": "Nature trail through forest",
+    "caption": "Scenic hiking trails",
+    "category": "activities"
+  },
+  {
+    "id": "9",
+    "url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800",
+    "alt": "Fresh berries on the vine",
+    "caption": "Berry picking season",
+    "category": "plantation"
+  },
+  {
+    "id": "10",
+    "url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+    "alt": "Spacious family suite living area",
+    "caption": "Family Suite - perfect for groups",
+    "category": "accommodation"
+  },
+  {
+    "id": "11",
+    "url": "https://images.unsplash.com/photo-1556910110-a5a63dfd393c?w=800",
+    "alt": "Farm to table cooking class in progress",
+    "caption": "Farm-to-table cooking classes",
+    "category": "activities"
+  },
+  {
+    "id": "12",
+    "url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800",
+    "alt": "Wildflower meadow in bloom",
+    "caption": "Pollinator meadow in summer",
+    "category": "plantation"
+  }
+]

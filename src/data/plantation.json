@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Organic Vegetable Gardens",
+    "description": "Our 5-acre certified organic vegetable operation grows over 40 varieties of heirloom and hybrid vegetables using sustainable practices. We practice crop rotation, companion planting, and integrate beneficial insects for pest management. From spring lettuce to winter squash, our gardens provide fresh produce for our farm stand and cooking classes year-round.",
+    "image": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=800",
+    "displayOrder": 1
+  },
+  {
+    "id": "2",
+    "title": "Heritage Fruit Orchard",
+    "description": "Our expanding orchard features 200+ fruit trees including apples, pears, cherries, plums, and peaches. We focus on heritage varieties that are well-adapted to our climate and offer exceptional flavor. The orchard uses integrated pest management and organic growing methods. Guests are welcome to pick fruit during harvest season, and we press our own apple cider each fall.",
+    "image": "https://images.unsplash.com/photo-1560493676-04071c5f467b?w=800",
+    "displayOrder": 2
+  },
+  {
+    "id": "3",
+    "title": "Berry Patches",
+    "description": "Strawberries, raspberries, blueberries, and blackberries thrive in our dedicated berry patches. These perennial crops are managed organically and provide delicious harvests from June through October. U-pick opportunities are available throughout the season, and surplus berries are transformed into preserves and frozen for year-round enjoyment in our cooking classes.",
+    "image": "https://images.unsplash.com/photo-1588411133177-eef1e8720c6d?w=800",
+    "displayOrder": 3
+  },
+  {
+    "id": "4",
+    "title": "Herb Gardens",
+    "description": "Our extensive herb gardens supply fresh culinary and medicinal herbs for our farm kitchen and local restaurants. We grow classic culinary herbs like basil, rosemary, and thyme alongside medicinal varieties such as echinacea, chamomile, and lavender. Many herbs are dried and preserved, and we offer herb-drying workshops where guests learn preservation techniques.",
+    "image": "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800",
+    "displayOrder": 4
+  },
+  {
+    "id": "5",
+    "title": "Pollinator Meadow",
+    "description": "Our 2-acre wildflower meadow is dedicated to supporting pollinators - bees, butterflies, and beneficial insects essential to our farm's success. The meadow features native flowering plants that bloom in succession from spring through fall, providing continuous nectar and pollen sources. Walking paths wind through the meadow, offering spectacular displays and wildlife viewing opportunities.",
+    "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800",
+    "displayOrder": 5
+  },
+  {
+    "id": "6",
+    "title": "Greenhouse Operations",
+    "description": "Our two greenhouses extend our growing season and allow us to cultivate heat-loving crops like tomatoes, peppers, and cucumbers. We also start all our vegetable transplants here each spring. The greenhouses use passive solar heating and rainwater collection, demonstrating sustainable growing techniques. Guests can tour the greenhouses to see seedling propagation and season-extension methods in action.",
+    "image": "https://images.unsplash.com/photo-1622383563227-04401ab4e5ea?w=800",
+    "displayOrder": 6
+  }
+]
